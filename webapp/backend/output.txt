@@ -1,0 +1,6 @@
+asdfa.example.com:
+OracleServer: asdfa.example.com
+OracleHostname: MacBook-Pro
+Date: 09/05/2024 23:45:25
+Current Directory: /Users/vishnuvardhanmedara/Downloads/HCWebapp/DB-Health-Check-Hub/dbhc/webapp/backend
+
